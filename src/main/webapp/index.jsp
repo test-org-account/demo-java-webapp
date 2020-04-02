@@ -21,6 +21,7 @@
 	Mary made her changes!
 	If you are reading this message then the installation has gone well and the application is running. Congratulations!!
 	John made his changes in the feature branch!
+	John's change to push commit to feature branch!
 </body>
 
 </html>
