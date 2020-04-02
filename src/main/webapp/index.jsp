@@ -19,6 +19,7 @@
 <body>
 	<h1>Welcome to AWS DevOps!</h1>
 	If you are reading this message then the installation has gone well and the application is running. Congratulations!!
+	John made his changes in the feature branch!
 </body>
 
 </html>
